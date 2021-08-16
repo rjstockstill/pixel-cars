@@ -1,0 +1,38 @@
+{
+  "frames": {
+
+  "mist1":
+  {
+    "frame": {"x":0,"y":0,"w":3,"h":3},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+    "sourceSize": {"w":3,"h":3}
+  },
+  "mist2":
+  {
+    "frame": {"x":3,"y":0,"w":3,"h":3},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+    "sourceSize": {"w":3,"h":3}
+  },
+  "mist3":
+  {
+    "frame": {"x":6,"y":0,"w":3,"h":3},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+    "sourceSize": {"w":3,"h":3}
+  }
+},
+  "meta": {
+    "app": "pixel-cars",
+    "version": "1.0",
+    "image": "mist.png",
+    "format": "RGBA8888",
+    "size": {"w":9,"h":3},
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:f2781d89823d5a67fc31381af364b421:da82646b19b2f0c08684086824b1e581:71625947cf221c10549b852c13ffedc7$"
+  }
+}
